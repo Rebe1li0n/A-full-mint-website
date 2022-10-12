@@ -30,6 +30,8 @@ And you also can check the final demo in [here](http://45.32.250.214:3000/)
 
 ### Other website maybe useful
 
+Faucet: [https://faucet.paradigm.xyz/](https://faucet.paradigm.xyz/)
+
 assets file download: [https://1drv.ms/u/s!Al1l2sA-axg8gep2j...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3RqUEJxSDE4Q2xDT21wQzh6czd4Z0J3dTNVUXxBQ3Jtc0tuakpJMWkzNUVmWGc4VXlKWjl0MHJRdVZiRHJpQ3NkRTdxVDB5ZkwtcUZDSG44OUJXSEJJV05PN0xkakRkaFVPUjM1ZXFhRnZTNzBOT21XTWxUNExvQTJOM3U3eUVLZGgydmJkc0o2SmtZYmtDVHpSTQ&q=https%3A%2F%2F1drv.ms%2Fu%2Fs!Al1l2sA-axg8gep2j3h4WqOXh-N4Ug%3Fe%3DMPsEP9&v=ynFNLBP2TPs)
 
 create-react-app: [https://create-react-app.dev/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFpRNlYtaGwtUUtZZzFfeW40Rmtxck84RWl1d3xBQ3Jtc0tsTnBnclRhMHJ5V0w4ZHo4TWo4NllYNlFBbEUzZ21DRXNydnV6Y2dVWWhQQzU1RTZIZ1hIMVBNYXdNRndSNzBzZnNjRmdzenlrRWtob3BSMlRROG1helBNOFZTUGMzdlZxX2xSb2hSZ052U3lGLXBhUQ&q=https%3A%2F%2Fcreate-react-app.dev%2F&v=ynFNLBP2TPs) 
